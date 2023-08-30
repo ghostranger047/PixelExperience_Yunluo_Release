@@ -16,9 +16,6 @@
 - If verification Fails, just hit "Yes" on recovery.
 - Select ```Reboot system now``` on recovery option after flashing finishes.
 
-## After successful boot:
- - While setting up the device skip adding device lock (You may add that later from settings). This is to ensure face lock doesn't show during setup.
-- Face unlock doesnt work. If you're stuck at setting up face unlock screen, keep doing it 2-3 times until you get the cancel option.
 
 ## Warning:
 - You are using this ROM at your own will, hence you are soley responsible for any damage that you may inflict on you device or you.
